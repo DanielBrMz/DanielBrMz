@@ -1,15 +1,11 @@
 <h1 align="center">It's Daniel🗿 here!</h1>
-<h3 align="center">I am a dedicated Computer Science student at Tecnologico de Monterrey. I am a self-motivated and quick learner. My goal is to use my knowledge to empower others and make a better world. 🌎</h3>
+<h4 align="center">I am a dedicated Computer Science student at Tecnologico de Monterrey. I am a self-motivated and quick learner. My goal is to use my knowledge to empower others and make a better world. 🌎</h4>
 
 - 🔭 I’m currently working on **React Native Apps**
 
 - 🌱 I’m currently learning **Neural Networks...**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 🤝 I’m looking for help with **Tuneo - A Spotify alternative**
-
-- 📝 I regularly write articles on [Linked In](https://www.linkedin.com/in/danielbrmz/)
 
 - 💬 Ask me about **Web development, Cloud computing, Operating Systems...**
 
