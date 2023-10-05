@@ -29,7 +29,7 @@ const Daniel = {
   tools: ['Node', 'Mongo', 'Flask', 'React','React Native', 'Electron','Nextjs','Nestjs', 'Embedded Systems'],
   areas: ['Cloud', 'Data', 'Product', 'Management', 'SoftSkills'],
   techCommunities: {
-                        host: 'LatinXperts',
+                        host: 'LatinXperts', 'Notion Campus Leader',
                         organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
                         events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec León', 'and many collabs',
                         speaker: '#DroidCon', '#PyCon Latam', '#CONISOFT', '#OctogatosConf','#Streamyard Level Up Summit','#CODIGOFEST',
