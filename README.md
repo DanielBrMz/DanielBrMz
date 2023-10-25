@@ -1,9 +1,9 @@
 <h1 align="center">It's Daniel🗿 here!</h1>
 <h4 align="center">I am a dedicated Computer Science student at Tecnologico de Monterrey. I am a self-motivated and quick learner. My goal is to use my knowledge to empower others and make a better world. 🌎</h4>
 
-- 🔭 I’m currently working on **React Native Apps**
+- 🔭 I’m currently working on **On-Premise to Cloud migration**
 
-- 🌱 I’m currently learning **Neural Networks...**
+- 🌱 I’m currently learning **Internet of Things**
 
 - 🤝 I’m looking for help with **Tuneo - A Spotify alternative**
 
