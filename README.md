@@ -32,7 +32,6 @@ const Daniel = {
                         host: 'LatinXperts', 'Notion Campus Leader',
                         organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
                         events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec León', 'and many collabs',
-                        speaker: '#DroidCon', '#PyCon Latam', '#CONISOFT', '#OctogatosConf','#Streamyard Level Up Summit','#CODIGOFEST',
                       },
  challenge: 'Design a community model that allows students to strengthen their professional profile in a creative, safe and collaborative environment.'
 }
