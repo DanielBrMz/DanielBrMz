@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web development, Cloud computing, Operating Systems...**
 
-- 📫 Reach me through **alfredobarreras.ab@gmail.com**
+- 📫 Reach me through **danielbarreras.ab@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
