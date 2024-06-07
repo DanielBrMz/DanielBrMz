@@ -31,7 +31,7 @@ const Daniel = {
   techCommunities: {
                         host: 'LatinXperts', 'Notion Campus Leader',
                         organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
-                        events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec León', 'and many collabs',
+                        events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec Mty', 'and many collabs',
                       },
  challenge: 'Design a community model that allows students to strengthen their professional profile in a creative, safe and collaborative environment.'
 }
