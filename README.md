@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Internet of Things**
 
-- 🤝 I’m looking for help with **Tuneo - A Spotify alternative**
+- 🤝 I’m looking for help with **A new ERP**
 
 - 💬 Ask me about **Web development, Cloud computing, Operating Systems...**
 
