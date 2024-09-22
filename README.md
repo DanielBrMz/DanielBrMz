@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Company Automation Processes**
 
-- 🌱 I’m currently learning **Internet of Things**
+- 🌱 I’m currently learning **Social Internet of Things**
 
 - 🤝 I’m looking for help with **A new ERP**
 
