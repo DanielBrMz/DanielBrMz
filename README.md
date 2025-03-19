@@ -24,14 +24,14 @@ const Daniel = {
   pronouns: 'He' | 'Him',
   pastCompanies:['Molina Group', 'Sidepocket Inc', 'Ciena Corp', 'Oracle'],
   code: ['Typescript', 'Python', 'Java', 'C', 'C++', 'Rust'],
-  lowCodeTools: ['Google Workspace', 'Figma', 'Notion', 'Slack', 'Obsidian'],
+  lowCodeTools: ['Google Workspace', 'Apex', 'Figma', 'Notion', 'Slack', 'Obsidian'],
   cloud: ['Azure', 'GCP', 'Firebase', 'Vercel', 'Netlify','AWS'],
-  tools: ['Node', 'Mongo', 'Flask', 'React','React Native', 'Electron','Nextjs','Nestjs', 'Embedded Systems'],
+  tools: ['Node', 'Mongo', 'Flask', 'React', 'Electron','Nextjs','Nestjs', 'Embedded Systems'],
   areas: ['Cloud', 'Data', 'Product', 'Management', 'SoftSkills'],
   techCommunities: {
                         host: 'LatinXperts', 'Notion Campus Leader',
                         organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
-                        events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec Mty', 'and many collabs',
+                        events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec Mty',
                       },
  challenge: 'Design a community model that allows students to strengthen their professional profile in a creative, safe and collaborative environment.'
 }
