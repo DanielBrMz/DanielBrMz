@@ -22,7 +22,7 @@
 ```javascript
 const Daniel = {
   pronouns: 'He' | 'Him',
-  pastCompanies:['Sidepocket Inc', 'Ciena Corp', 'Oracle'],
+  pastCompanies: ['Sidepocket Inc', 'Ciena Corp', 'Oracle'],
   code: ['Typescript', 'Python', 'Java', 'C', 'C++', 'Rust'],
   lowCodeTools: ['Google Workspace', 'Apex', 'Figma', 'Notion', 'Slack', 'Obsidian'],
   cloud: ['Azure', 'GCP', 'Firebase', 'Vercel', 'Netlify','AWS'],
