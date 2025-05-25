@@ -1,5 +1,5 @@
 <h1 align="center">It's Daniel🗿 here!</h1>
-<h4 align="center">I am a dedicated Computer Science student at Tecnologico de Monterrey passionate about building AI systems that enhance human lives and solve global challenges. I'm a self-motivated engineer who thrives in fast-paced, collaborative environments. My goal is to democratize AI technology and make it accessible worldwide. 🌎</h4>
+<h4 align="center">I'm a self-motivated engineer who thrives in fast-paced, collaborative environments. My goal is to democratize AI technology and make it accessible worldwide. 🌎</h4>
 
 - 🔭 I'm currently working on **AI-powered automation systems and neural-controlled prosthetics**
 - 🌱 I'm currently learning **Advanced ML deployment and responsible AI practices**
