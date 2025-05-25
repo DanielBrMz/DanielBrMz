@@ -1,14 +1,10 @@
 <h1 align="center">It's Daniel🗿 here!</h1>
-<h4 align="center">I am a dedicated Computer Science student at Tecnologico de Monterrey. I am a self-motivated and quick learner. My goal is to use my knowledge to empower others and make a better world. 🌎</h4>
+<h4 align="center">I am a dedicated Computer Science student at Tecnologico de Monterrey passionate about building AI systems that enhance human lives and solve global challenges. I'm a self-motivated engineer who thrives in fast-paced, collaborative environments. My goal is to democratize AI technology and make it accessible worldwide. 🌎</h4>
 
-- 🔭 I’m currently working on **Company Automation Processes**
-
-- 🌱 I’m currently learning **Social Internet of Things**
-
-- 🤝 I’m looking for help with **A new ERP**
-
-- 💬 Ask me about **Web development, Cloud computing, Operating Systems...**
-
+- 🔭 I'm currently working on **AI-powered automation systems and neural-controlled prosthetics**
+- 🌱 I'm currently learning **Advanced ML deployment and responsible AI practices**
+- 🤝 I'm looking to collaborate on **AI applications that benefit humanity**
+- 💬 Ask me about **React.js, Python backends, AI/ML, and building products for millions of users**
 - 📫 Reach me through **danielbarreras.ab@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,16 +19,22 @@
 const Daniel = {
   pronouns: 'He' | 'Him',
   pastCompanies: ['Sidepocket Inc', 'Ciena Corp', 'Oracle'],
-  code: ['Typescript', 'Python', 'Java', 'C', 'C++', 'Rust'],
-  lowCodeTools: ['Google Workspace', 'Apex', 'Figma', 'Notion', 'Slack', 'Obsidian'],
-  cloud: ['Azure', 'GCP', 'Firebase', 'Vercel', 'Netlify','AWS'],
-  tools: ['Node', 'Mongo', 'Flask', 'React', 'Electron','Nextjs','Nestjs', 'Embedded Systems'],
-  areas: ['Cloud', 'Data', 'Product', 'Management', 'SoftSkills'],
-  techCommunities: {
-                        host: 'LatinXperts', 'Notion Campus Leader',
-                        organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
-                        events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec Mty',
-                      },
- challenge: 'Design a community model that allows students to strengthen their professional profile in a creative, safe and collaborative environment.'
+  code: ['Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'SQL', 'Rust'],
+  aiFrameworks: ['TensorFlow', 'PyTorch', 'Computer Vision', 'NLP', 'RAG Models'],
+  webTech: ['React.js', 'Node.js', 'Flask', 'Django', 'FastAPI', 'RESTful APIs'],
+  databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
+  cloud: ['Azure', 'AWS', 'GCP', 'Firebase', 'Vercel'],
+  tools: ['Git', 'Docker', 'CI/CD', 'Linux', 'Pandas', 'NumPy'],
+  focus: ['AI Safety', 'User Experience', 'Cross-functional Collaboration', 'Product Development'],
+  achievements: {
+                  competitions: ['NASA Space Apps Global Finalist', 'Prototypes for Humanity 2024 Finalist'],
+                  impact: ['2,000+ daily users served', '99.9% uptime systems', 'SOC 2 compliance'],
+                  community: ['50+ students mentored', 'AI/ML workshop leader', 'Algorithms Club Board']
+                },
+  currentProjects: {
+                    anthropomimetics: 'Neural-controlled prosthetics using EEG + RAG models',
+                    phoenixEye: 'AI wildfire prevention with 95% satellite image accuracy'
+                   },
+  mission: 'Building safe, beneficial AI systems that enhance lives and solve global challenges through responsible deployment and inclusive access.'
 }
 ```
