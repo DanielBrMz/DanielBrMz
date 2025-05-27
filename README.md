@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on **AI-powered automation systems and neural-controlled prosthetics**
 - 🌱 I'm currently learning **Advanced ML deployment and responsible AI practices**
 - 🤝 I'm looking to collaborate on **AI applications that benefit humanity**
-- 💬 Ask me about **React.js, Python backends, AI/ML, and building products for millions of users**
+- 💬 Ask me about **React.js, Python backends, AI/ML, Cloud computing**
 - 📫 Reach me through **danielbarreras.ab@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
