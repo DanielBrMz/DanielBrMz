@@ -18,7 +18,7 @@
 ```javascript
 const Daniel = {
   pronouns: 'He' | 'Him',
-  pastCompanies: ['Sidepocket Inc', 'Ciena Corp', 'Oracle'],
+  pastCompanies: ['Sidepocket Inc', 'Ciena Corp', 'Oracle', 'Harvard Medical School', 'Boston Children's Hospital'],
   code: ['Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'SQL', 'Rust'],
   aiFrameworks: ['TensorFlow', 'PyTorch', 'Computer Vision', 'NLP', 'RAG Models'],
   webTech: ['React.js', 'Node.js', 'Flask', 'Django', 'FastAPI', 'RESTful APIs'],
