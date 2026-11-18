@@ -1,40 +1,21 @@
-<h1 align="center">It's Daniel🗿 here!</h1>
-<h4 align="center">I'm a self-motivated engineer who thrives in fast-paced, collaborative environments. My goal is to democratize AI technology and make it accessible worldwide. 🌎</h4>
+### Daniel Barreras
 
-- 🔭 I'm currently working on **AI-powered automation systems and neural-controlled prosthetics**
-- 🌱 I'm currently learning **Advanced ML deployment and responsible AI practices**
-- 🤝 I'm looking to collaborate on **AI applications that benefit humanity**
-- 💬 Ask me about **React.js, Python backends, AI/ML, Cloud computing**
-- 📫 Reach me through **danielbarreras.ab@hotmail.com**
+Software engineer working across cloud backends, machine learning and full-stack products. Based in Mexico City.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danielbrmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielbrmz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/danielbrmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danielbrmz" height="30" width="40" /></a>
-</p>
+- Technical lead at Sidepocket: Python microservices, GraphQL and PostgreSQL on AWS ECS.
+- Previously Lead Software Engineer (backend, AWS serverless) at Capital One and Software Engineer at Oracle.
+- Spent a year as a research engineer at Harvard Medical School / Boston Children's Hospital, training deep learning models for fetal MRI enhancement on a 10-GPU cluster. Manuscript in preparation.
+- Build with LLM agents every day (Claude Code, MCP).
 
-### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...  
+**Selected work**
 
-```javascript
-const Daniel = {
-  pronouns: 'He' | 'Him',
-  pastCompanies: ['Sidepocket Inc', 'Ciena Corp', 'Oracle', 'Harvard Medical School', 'Boston Childrens Hospital'],
-  code: ['Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'SQL', 'Rust'],
-  aiFrameworks: ['TensorFlow', 'PyTorch', 'Computer Vision', 'NLP', 'RAG Models'],
-  webTech: ['React.js', 'Node.js', 'Flask', 'Django', 'FastAPI', 'RESTful APIs'],
-  databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
-  cloud: ['Azure', 'AWS', 'GCP', 'Firebase', 'Vercel'],
-  tools: ['Git', 'Docker', 'CI/CD', 'Linux', 'Pandas', 'NumPy'],
-  focus: ['AI Safety', 'User Experience', 'Cross-functional Collaboration', 'Product Development'],
-  achievements: {
-                  competitions: ['NASA Space Apps Global Finalist', 'Prototypes for Humanity 2024 Finalist'],
-                  impact: ['2,000+ daily users served', '99.9% uptime systems', 'SOC 2 compliance'],
-                  community: ['50+ students mentored', 'AI/ML workshop leader', 'Algorithms Club Board']
-                },
-  currentProjects: {
-                    anthropomimetics: 'Neural-controlled prosthetics using EEG + RAG models',
-                    phoenixEye: 'AI wildfire prevention with 95% satellite image accuracy'
-                   },
-  mission: 'Building safe, beneficial AI systems that enhance lives and solve global challenges through responsible deployment and inclusive access.'
-}
-```
+| Project | What it is |
+|---|---|
+| [Phoenix](https://github.com/DanielBrMz/Phoenix) | Phoenix Eye: wildfire detection from satellite imagery with a 3D map front end. NASA Space Apps global finalist team, Prototypes for Humanity 2024. |
+| [vanguard-mri-harmonization](https://github.com/DanielBrMz/vanguard-mri-harmonization) | MRI harmonization research code. |
+| [hopfield-network](https://github.com/DanielBrMz/hopfield-network) | Hopfield network from scratch. |
+| [red-neuronal](https://github.com/DanielBrMz/red-neuronal) | Neural network from scratch. |
+
+Python · TypeScript · Java · Go · AWS · PostgreSQL · PyTorch · Docker · Next.js
+
+[LinkedIn](https://linkedin.com/in/danielbrmz)
